@@ -58,3 +58,10 @@ for (let index = 0; index <= 100; index++) {
 //     console.log(index)
     
 // }
+
+
+const circle = require('./utilities/circle');
+const random = require('./utilities/random');
+
+console.log(circle.area(50))
+
